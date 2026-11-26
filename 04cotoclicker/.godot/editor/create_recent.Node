@@ -1,0 +1,14 @@
+AudioStreamPlayer
+AudioStreamPlayer2D
+Panel
+PanelContainer
+Label
+TextureRect
+Control
+Button
+Timer
+HBoxContainer
+VBoxContainer
+AnimatedSprite2D
+MarginContainer
+TileMapLayer
